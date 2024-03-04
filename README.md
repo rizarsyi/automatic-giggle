@@ -1,1 +1,2 @@
-# automatic-giggle
+### agama-sms
+ OTP authentication with SMS
